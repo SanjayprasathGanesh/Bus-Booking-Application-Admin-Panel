@@ -1,16 +1,1 @@
-# redbus_admin
-
-Redbus Admin
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Expense Tracker application is designed to meticulously monitor user expenditures and income streams through daily inputs. Developed on a SQLite database backend, integrated within the Flutter framework, it ensures efficient local storage capabilities. In addition to tracking expenses and incomes, the application offers analytical insights into spending patterns. Furthermore, it boasts additional features such as a Leave Tracker, Personal Diary Writing, and Mileage Calculator, enhancing its utility beyond mere financial management. The primary objective remains to furnish users with comprehensive monthly reports detailing their financial activities, thereby fostering better financial planning and management.
